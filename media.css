@@ -1,0 +1,160 @@
+@media screen and (max-width: 670px) {
+  .navbar {
+    background-color: #fff;
+    z-index: 2;
+  }
+  .nav-link {
+    color: black;
+    font-size: 15px;
+  }
+  .nav-link:hover {
+    color: greenyellow;
+  }
+  .btns {
+    color: black;
+    font-size: 15px;
+  }
+  .text-container h1 {
+    font-size: 30px;
+  }
+  .main {
+    background-position: center top;
+  }
+  .main-2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+  .para2 {
+    margin-top: 20px;
+    margin-left: 25px;
+  }
+  .coff {
+    display: flex;
+    flex-direction: row;
+  }
+  .coff img {
+    width: 300px;
+    height: auto;
+  }
+  .one {
+    margin: 20px;
+  }
+  /* 3 */
+  .para-three-1 {
+    margin: 15px 0 0 0;
+  }
+  .para-three-1 h5{
+     font-size: 18px;
+     color: rgb(20, 9, 6);
+  }
+  .add-1 button:hover{
+    background-color: yellowgreen;
+  }
+  .add-1 {
+
+    margin:0 0 20px 0;
+  }
+  /* small */
+  .small {
+    margin:50px;
+  }
+  .small h3{
+    font-size: 20px;
+  }
+  .po-d-1 img {
+    left: 250px;
+    bottom: -40px;
+    width: 200px;
+  }
+  /* 4 */
+  .float {
+    margin-top: 30px;
+  }
+  /* .contain-four{
+    display: flex;
+    flex-direction: column;
+  } */
+  .add-2 img{
+    width: 200px;
+    margin-bottom:0px;
+  }
+  .add-2 img {
+    margin: 10px 0px;
+  } 
+  .container-five {
+    background-position: center;
+  }
+  .small-1 {
+    margin: 20px ;
+    margin-bottom: 0px;
+    margin-left: 30px;
+  }
+ .container-five{
+    background-image: url(./img/sec\ bgtwo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+ }
+ .fill{
+     margin-top:80px ;
+ }
+  .hedfive h3 {
+    font-size: 20px;
+  }
+  .a-link-five{
+    margin-top:50px ;
+  }
+  /* 6 */
+  .p-six{
+     margin: 0 0 0 10px;
+  }
+  .p-six h2 {
+    font-size: 25px;
+  }
+  .center-six {
+    margin: 40px;
+  }
+  .center-six p {
+    font-size: 20px;
+    padding: 10px;
+  }
+  .six-im img {
+    width: 100px;
+    left: 180px;
+  }
+  /* 3 */
+  .ppp {
+    width: 250px;
+    top: 1150px;
+  }
+  /* 7 */
+  .cu {
+    width: 170px;
+    left: 300px;
+    top: -1380px;
+  }
+  .posi-seev {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+    flex-direction: column;
+  }
+   .in input{
+    width:300px;
+   }
+   .in button{
+    width: 100px;
+   }
+  .main {
+    background-image: url("./img/bg two.webp");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-width: 100%;
+    height: 120vh; 
+  }
+}
