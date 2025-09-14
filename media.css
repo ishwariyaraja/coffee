@@ -54,6 +54,16 @@
   .add-1 {
 
     margin:0 0 20px 0;
+  } 
+  .add-1 img{
+    width: 200px;
+  }
+  .add-1 {
+    width: 200px;
+    height: auto;
+  }
+  .add-1>button{
+    margin-left:50px;
   }
   /* small */
   .small {
@@ -98,7 +108,7 @@
     background-position: center;
  }
  .fill{
-     margin-top:80px ;
+     /* margin-top:80px ; */
  }
   .hedfive h3 {
     font-size: 20px;
@@ -108,7 +118,7 @@
   }
   /* 6 */
   .p-six{
-     margin: 0 0 0 10px;
+     margin: 0 0 0 20px;
   }
   .p-six h2 {
     font-size: 25px;
@@ -143,7 +153,7 @@
     flex-direction: column;
   }
    .in input{
-    width:300px;
+    width:200px;
    }
    .in button{
     width: 100px;
