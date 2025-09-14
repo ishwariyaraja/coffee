@@ -158,6 +158,20 @@
    .in button{
     width: 100px;
    }
+   .posi-seev{
+    /* position: absolute; */
+    /* left:350px;
+    top:100px ; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: capitalize;
+}
+.posi-seev>h2{
+    font-size:30px;
+    font-weight:bold;
+    /* color: #2ed408; */
+        /* padding: 50PX; */
+    text-shadow:2px 2px 6px 2px  black;
+}
   .main {
     background-image: url("./img/bg two.webp");
     background-attachment: fixed;
