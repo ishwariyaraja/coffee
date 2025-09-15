@@ -29,6 +29,9 @@
     margin-top: 20px;
     margin-left: 25px;
   }
+  .para-three-1 {
+    margin: 15px 0 0 15px;
+    }
   .coff {
     display: flex;
     flex-direction: row;
@@ -123,9 +126,7 @@
   .p-six h2 {
     font-size: 25px;
   }
-  .center-six {
-    /* margin: 40px; */
-  }
+
   .center-six p {
     font-size: 20px;
     padding: 10px;

@@ -382,7 +382,7 @@
 .center-six{
    display: flex;
    flex-direction: column;
-   margin:50px 200px 50px 200px;
+   /* margin:50px 200px 50px 200px; */
    background-color: rgb(242, 230, 213);
    border:1px solid orange;
    padding:30px;
