@@ -197,7 +197,7 @@
     font-family:'Times New Roman', Times, serif;
     font-weight: bold;
     text-transform: capitalize;
-    text-decoration:underline;
+    /* text-decoration:underline; */
  }
  .flot{
     display: flex;
