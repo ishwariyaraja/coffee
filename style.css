@@ -363,6 +363,8 @@
 /* 6 */
 .container-six{
    margin-top:50px;
+  display: flex;
+  flex-direction: row;
    text-transform: capitalize;
 }
 .p-six h2{
@@ -382,11 +384,12 @@
 .center-six{
    display: flex;
    flex-direction: column;
+   flex-wrap: wrap;
    /* margin:50px 200px 50px 200px; */
    background-color: rgb(242, 230, 213);
    border:1px solid orange;
-   padding:30px;
-   border-width:5px; 
+   /* padding:30px; */
+   /* border-width:5px;  */
 }
 .p-six p{
    font-size:20px;

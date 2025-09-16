@@ -120,6 +120,12 @@
     margin-top:50px ;
   }
   /* 6 */
+  .container-six{
+   margin-top:50px;
+   display: flex;
+   flex-direction: column;
+   text-transform: capitalize;
+}
   .p-six{
      margin: 0 0 0 20px;
   }
@@ -137,6 +143,7 @@
   }
   .center-six{
    display: flex;
+   flex-wrap: wrap;
    flex-direction: column;
    /* margin:50px 200px 50px 200px; */
    background-color: rgb(242, 230, 213);
