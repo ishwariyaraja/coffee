@@ -1,12 +1,14 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-/* body{
-    height:1800vh;
+    body{
+        max-width: 100%;
+        overflow-x: hidden;
+    /* height:1800vh; */
     text-transform: capitalize;
-} */
+}  
  .text-container{
     position: relative;
     height: 70px;

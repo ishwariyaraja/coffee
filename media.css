@@ -3,6 +3,10 @@
     background-color: #fff;
     z-index: 2;
   }
+  html,body{
+    max-width: 100%;
+    overflow-x: hidden;
+  }
   .nav-link {
     color: black;
     font-size: 15px;
@@ -110,9 +114,7 @@
     background-attachment: fixed;
     background-position: center;
  }
- .fill{
-     /* margin-top:80px ; */
- }
+
   .hedfive h3 {
     font-size: 20px;
   }
