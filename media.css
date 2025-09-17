@@ -19,11 +19,16 @@
     font-size: 15px;
   }
   .text-container h1 {
-    font-size: 30px;
+    font-size: 25px;
   }
   .main {
     background-position: center top;
+    width: 100%;
+     height:100vh;
   }
+  .posi-one {
+   margin-top:50px;
+} 
   .main-2 {
     display: flex;
     flex-wrap: wrap;
@@ -55,6 +60,9 @@
      font-size: 18px;
      color: rgb(20, 9, 6);
   }
+   .p1{
+    text-align: center;
+   }
   .add-1 button:hover{
     background-color: yellowgreen;
   }
@@ -113,46 +121,19 @@
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+    margin-top:70px;
+
  }
 
   .hedfive h3 {
     font-size: 20px;
   }
-  .a-link-five{
-    margin-top:50px ;
-  }
   /* 6 */
-  .container-six{
-   margin-top:50px;
-   display: flex;
-   flex-direction: column;
-   text-transform: capitalize;
+.center-six p{
+    font-size:20px;
+    color: gray;
 }
-  .p-six{
-     margin: 0 0 0 20px;
-  }
-  .p-six h2 {
-    font-size: 25px;
-  }
 
-  .center-six p {
-    font-size: 20px;
-    padding: 10px;
-  }
-  .six-im img {
-    width: 100px;
-    left: 180px;
-  }
-  .center-six{
-   display: flex;
-   flex-wrap: wrap;
-   flex-direction: column;
-   /* margin:50px 200px 50px 200px; */
-   background-color: rgb(242, 230, 213);
-   border:1px solid orange;
-   padding:30px;
-   border-width:5px; 
-}
   /* 3 */
   .ppp {
     width: 250px;
@@ -168,7 +149,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 30px;
     flex-direction: column;
   }
    .in input{
@@ -185,7 +165,7 @@
     text-transform: capitalize;
 }
 .posi-seev>h2{
-    font-size:30px;
+    font-size:20px;
     font-weight:bold;
     /* color: #2ed408; */
         /* padding: 50PX; */
